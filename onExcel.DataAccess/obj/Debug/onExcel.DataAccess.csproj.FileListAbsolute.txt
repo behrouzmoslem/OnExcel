@@ -1,0 +1,8 @@
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\bin\Debug\onExcel.DataAccess.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\bin\Debug\onExcel.DataAccess.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\bin\Debug\onExcel.Common.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\bin\Debug\onExcel.Common.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\obj\Debug\onExcel.DataAccess.csprojResolveAssemblyReference.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\obj\Debug\onExcel.DataAccess.csproj.CoreCompileInputs.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\obj\Debug\onExcel.DataAccess.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess\obj\Debug\onExcel.DataAccess.pdb

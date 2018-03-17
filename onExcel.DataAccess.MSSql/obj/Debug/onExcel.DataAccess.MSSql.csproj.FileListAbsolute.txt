@@ -1,0 +1,17 @@
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.DataAccess.MSSql.dll.config
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.DataAccess.MSSql.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.DataAccess.MSSql.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\EntityFramework.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.Common.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.DataAccess.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.Common.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\onExcel.DataAccess.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\EntityFramework.xml
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.csprojResolveAssemblyReference.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.Migrations.initial.resources
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.csproj.GenerateResource.Cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.csproj.CoreCompileInputs.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.DataAccess.MSSql\obj\Debug\onExcel.DataAccess.MSSql.pdb

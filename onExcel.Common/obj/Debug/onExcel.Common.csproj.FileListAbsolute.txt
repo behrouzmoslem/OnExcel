@@ -1,0 +1,6 @@
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\bin\Debug\onExcel.Common.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\bin\Debug\onExcel.Common.pdb
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\obj\Debug\onExcel.Common.csprojResolveAssemblyReference.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\obj\Debug\onExcel.Common.csproj.CoreCompileInputs.cache
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\obj\Debug\onExcel.Common.dll
+D:\bm\bm\OnExcel\onExcel.Business\onExcel.Common\obj\Debug\onExcel.Common.pdb
